@@ -1,24 +1,19 @@
 <dependencies>
-    <!-- Light-4j Core -->
     <dependency>
         <groupId>com.networknt</groupId>
         <artifactId>light-4j</artifactId>
         <version>2.0.0</version>
     </dependency>
-    <!-- Light-Rest-4j -->
     <dependency>
         <groupId>com.networknt</groupId>
         <artifactId>light-rest-4j</artifactId>
         <version>2.0.0</version>
     </dependency>
-    <!-- MongoDB Java Driver -->
     <dependency>
         <groupId>org.mongodb</groupId>
         <artifactId>mongodb-driver-sync</artifactId>
         <version>4.4.0</version>
-    </dependency>
-    <!-- JSON Handling -->
-    <dependency>
+    </dependency><dependency>
         <groupId>com.fasterxml.jackson.core</groupId>
         <artifactId>jackson-databind</artifactId>
         <version>2.12.3</version>
